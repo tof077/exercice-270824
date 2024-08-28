@@ -1,0 +1,1 @@
+// Tests pour le middleware d’authentification.

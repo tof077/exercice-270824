@@ -1,0 +1,1 @@
+// Point d’entrée principal de l’application. Ce fichier initialise le serveur, charge les middlewares, configure les routes et démarre l’application.

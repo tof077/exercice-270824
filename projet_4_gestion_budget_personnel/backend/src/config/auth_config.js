@@ -1,0 +1,1 @@
+// Contient les configurations relatives à l’authentification, comme les secrets JWT, la durée de validité des tokens, etc.

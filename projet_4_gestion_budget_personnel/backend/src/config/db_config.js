@@ -1,0 +1,1 @@
+// Contient la configuration pour se connecter à la base de données (URL, utilisateur, mot de passe, options).
